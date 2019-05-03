@@ -1,8 +1,3 @@
-//  Created by Mamdinho on 09/11/2018.
-//  Copyright © 2018 Mamdinho. All rights reserved.
-//  NAME: MOHAMMED SULEIMAN MOHAMED AL-FALAHY     ID: 121083174
-//  EMAIL: MSMOHAMED-AL-FALAHY@MYSENECA.CA
-
 #ifndef Utilities_hpp
 #define Utilities_hpp
 
