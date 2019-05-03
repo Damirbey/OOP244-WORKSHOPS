@@ -1,11 +1,3 @@
-//
-//  Item.hpp
-//  MS1
-//
-//  Created by Mamdinho on 09/11/2018.
-//  Copyright © 2018 Mamdinho. All rights reserved.
-//  NAME: MOHAMMED SULEIMAN MOHAMED AL-FALAHY    ID: 121083174
-
 #ifndef Item_hpp
 #define Item_hpp
 
